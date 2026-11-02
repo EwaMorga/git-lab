@@ -1,1 +1,2 @@
 klawiatura monitor 
+zmiana z nowy_branch
